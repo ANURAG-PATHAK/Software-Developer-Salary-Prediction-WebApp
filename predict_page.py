@@ -37,7 +37,7 @@ def show_predict_page():
     education = ("Master’s degree", 
             "Bachelor’s degree",
             "Less than Bachelor’s degree",
-            "Doctorate or Professional")      
+            "Doctorate or Professional degree")      
 
     country = st.selectbox("Country", countries)
     education = st.selectbox("Education Level", education)
