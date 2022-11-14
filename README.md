@@ -10,5 +10,4 @@
 
 <br>
 
-check out my web app on : [https://anurag-pathak-software-developer-salary-prediction-w-app-fo1mv0.streamlitapp.com/](https://anurag-pathak-software-developer-salary-prediction-w-app-fo1mv0.streamlitapp.com/)
-
+check out my web app on : [Click Here](https://developer-salary-prediction.streamlit.app/)
